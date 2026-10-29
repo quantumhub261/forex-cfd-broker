@@ -1,0 +1,30 @@
+# forex-cfd-broker.de
+
+## Site Description
+Unabhängiges deutschsprachiges Informationsportal zu Forex- und CFD-Brokern für den deutschen Markt (GEO: Deutschland). Zielgruppe: Retail-Trader und Einsteiger, die Informationen zu Regulierung (BaFin/CySEC/MiFID II), Handelskosten (Spreads, Overnight), Hebellimits (ESMA) und Handelsinstrumenten suchen.
+
+## Purpose
+Bildungsorientierter, nicht-beratender Inhalt. Kein Anbieter-Review. Alle Angaben zu Kosten als brokerabhängige Variablen gekennzeichnet. Pflicht-Risikohinweise gemäß MiFID II integriert.
+
+## Main Page
+- URL: https://forex-cfd-broker.de/
+- Topic: Forex CFD Broker
+- Language: de
+- Geo: Deutschland
+- Last updated: 2026-08-28
+- Markdown version: https://forex-cfd-broker.de/content.md
+
+## Key Topics Covered
+- Definition Forex CFD Broker
+- BaFin / CySEC / MiFID II Regulierung
+- ESMA-Hebellimits (1:2 – 1:30 nach Assetklasse)
+- Kostenstruktur (Spreads, Overnight, Kommissionen)
+- Handelsinstrumente (Forex, Aktien, Indizes, Rohstoffe, Krypto)
+- Kontoeröffnung (KYC, MiFID-II-Eignungstest)
+- Risikomanagement (Negative Balance Protection, Stop-Loss)
+- CFD-Steuern Deutschland (§ 20 EStG, Abgeltungssteuer)
+- CFD Broker vs. Aktienbroker
+- Betrugsschutz (BaFin-Warndatenbank)
+
+## Editorial Standards
+Quarterly fact-checking. Independent expert review (CFA, MiFID-II). No investment advice. No guaranteed returns. Risk disclosures integrated.
